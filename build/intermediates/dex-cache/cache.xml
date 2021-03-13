@@ -2,109 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
         jumboMode="false"
         revision="24.0.1"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_7d524e2ed925e439e540e4e268feef4538de2da4.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_0034a111d0b39708be63c924221842cbfc1380a4.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_0c6ff2821ce5d3c9dc3ec8eff2641d1f4f84929b.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9daaff42d2dda453698b9e69706d4f2b7a7e1e9f.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_27f43eb31a532facc952cf8e274ea6da12f32f0d.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_80ab725ef984421f7f9ca706632f90ede13a2270.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_f5557d03075fb092f27db5463b4c1fd90dd905d2.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_92521858093ded155cbae1f383e74341c1107434.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_d5979fc90efef98b4dd4f5ef7819c4e492a96eaa.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_5655c786c5bc765d90d653ae3d9fbd2280a685dc.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_62fa9bedb7c83b8798538e6187a77936d9ed1b77.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_bde280bdbd02d61924276fe3067b4320b40edc6e.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_9f1144109101461e7569d18422eec27c8624876a.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_15a4db20325fc861e91cf84330d005c8231fde81.jar" />
-    </item>
-    <item
-        jar="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_99c5bfae61ffd782a96a13b3457e9de618919844.jar" />
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/mobileconsultingsolutions/Documents/Prep Docs/Twitter/Nathaniel/TwitterCodeChallenge2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_4e1789cb723f920d78a2b378bcd73d4191d4e2db.jar" />
     </item>
 
 </items>
