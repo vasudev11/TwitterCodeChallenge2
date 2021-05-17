@@ -8,29 +8,42 @@
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2464b243-d10b-4dc3-a425-28d1a0426025" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/twitter/challenge/model/DataFactoryTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/twitter/challenge/model/repository/RepositoryTest.kt" afterDir="false" />
+    <list default="true" id="2464b243-d10b-4dc3-a425-28d1a0426025" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_14_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_adapter_rxjava_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/processorPath.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/processorPath.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskJars.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_2_5_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/TwitterCodeChallenge2.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/TwitterCodeChallenge2.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/twitter/challenge/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/twitter/challenge/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/twitter/challenge/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/twitter/challenge/util/TemperatureConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/twitter/challenge/model/Forecast.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/twitter/challenge/model/Forecast.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/twitter/challenge/TemperatureConverterTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/twitter/challenge/util/TemperatureConverterTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/twitter/challenge/model/repository/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/twitter/challenge/model/repository/Repository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +60,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile_vertical" />
-        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -69,6 +82,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -84,7 +100,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Android JUnit.DataFactoryTest.testForecastPresentation">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="DataFactoryTest.testCurrentPresentationIsNotCloudy" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="TwitterCodeChallenge2.app" />
       <extension name="coverage">
@@ -185,6 +201,7 @@
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -244,6 +261,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -257,10 +275,20 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="457" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1615666659288">
+    <state x="252" y="192" key="#PSD" timestamp="1615860137002">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
+    <state x="366" y="-853" key="#PSD/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615836837430" />
+    <state x="252" y="192" key="#PSD/0.22.1440.878@0.22.1440.878" timestamp="1615860137002" />
+    <state x="609" y="-945" key="#com.intellij.ide.util.MemberChooser" timestamp="1616181399223">
+      <screen x="0" y="-1058" width="1920" height="1058" />
+    </state>
+    <state x="609" y="-945" key="#com.intellij.ide.util.MemberChooser/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1616181399223" />
     <state x="457" y="116" key="#com.intellij.ide.util.MemberChooser/0.22.1440.878@0.22.1440.878" timestamp="1615666659288" />
     <state x="683" y="-672" width="554" height="298" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615819605702">
       <screen x="0" y="-1058" width="1920" height="1058" />
@@ -274,25 +302,29 @@
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state x="501" y="199" key="AndroidCreateXmlResourceDialog/0.22.1440.878@0.22.1440.878" timestamp="1615656636186" />
-    <state width="1868" height="277" key="GridCell.Tab.0.bottom" timestamp="1615822451039">
+    <state width="1865" height="227" key="GridCell.Tab.0.bottom" timestamp="1616414670581">
       <screen x="0" y="-1058" width="1920" height="1058" />
     </state>
-    <state width="1868" height="277" key="GridCell.Tab.0.bottom/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615822451039" />
+    <state width="1865" height="227" key="GridCell.Tab.0.bottom/0.22.1440.878/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1616414670581" />
+    <state width="1868" height="277" key="GridCell.Tab.0.bottom/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615896101501" />
     <state width="1388" height="218" key="GridCell.Tab.0.bottom/0.22.1440.878@0.22.1440.878" timestamp="1615731233928" />
-    <state width="1868" height="277" key="GridCell.Tab.0.center" timestamp="1615822451037">
+    <state width="1865" height="227" key="GridCell.Tab.0.center" timestamp="1616414670580">
       <screen x="0" y="-1058" width="1920" height="1058" />
     </state>
-    <state width="1868" height="277" key="GridCell.Tab.0.center/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615822451037" />
+    <state width="1865" height="227" key="GridCell.Tab.0.center/0.22.1440.878/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1616414670580" />
+    <state width="1868" height="277" key="GridCell.Tab.0.center/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615896101500" />
     <state width="1388" height="218" key="GridCell.Tab.0.center/0.22.1440.878@0.22.1440.878" timestamp="1615731233927" />
-    <state width="1868" height="277" key="GridCell.Tab.0.left" timestamp="1615822451036">
+    <state width="1865" height="227" key="GridCell.Tab.0.left" timestamp="1616414670579">
       <screen x="0" y="-1058" width="1920" height="1058" />
     </state>
-    <state width="1868" height="277" key="GridCell.Tab.0.left/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615822451036" />
+    <state width="1865" height="227" key="GridCell.Tab.0.left/0.22.1440.878/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1616414670579" />
+    <state width="1868" height="277" key="GridCell.Tab.0.left/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615896101499" />
     <state width="1388" height="218" key="GridCell.Tab.0.left/0.22.1440.878@0.22.1440.878" timestamp="1615731233927" />
-    <state width="1868" height="277" key="GridCell.Tab.0.right" timestamp="1615822451038">
+    <state width="1865" height="227" key="GridCell.Tab.0.right" timestamp="1616414670581">
       <screen x="0" y="-1058" width="1920" height="1058" />
     </state>
-    <state width="1868" height="277" key="GridCell.Tab.0.right/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615822451038" />
+    <state width="1865" height="227" key="GridCell.Tab.0.right/0.22.1440.878/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1616414670581" />
+    <state width="1868" height="277" key="GridCell.Tab.0.right/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615896101501" />
     <state width="1388" height="218" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1615731233928" />
     <state x="0" y="-1058" width="1156" height="878" key="SettingsEditor" timestamp="1615810529973">
       <screen x="0" y="-1058" width="1920" height="1058" />
@@ -308,6 +340,11 @@
     </state>
     <state x="500" y="-793" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615813119991" />
     <state x="375" y="242" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.22.1440.878@0.22.1440.878" timestamp="1615667274646" />
+    <state x="0" y="229" key="psd.add.library.dependency.panel.dimension" timestamp="1615860134915">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state x="181" y="-809" key="psd.add.library.dependency.panel.dimension/0.22.1440.878/1440.22.1920.1058/0.-1058.1920.1058@0.-1058.1920.1058" timestamp="1615836836039" />
+    <state x="0" y="229" key="psd.add.library.dependency.panel.dimension/0.22.1440.878@0.22.1440.878" timestamp="1615860134915" />
     <state x="301" y="22" width="838" height="1032" key="search.everywhere.popup" timestamp="1615751204996">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
